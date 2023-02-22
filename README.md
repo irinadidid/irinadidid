@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Irina Degtiareva
-- 👀 I’m admitted to Statistics MA Program @ UC Berkeley starting Fall, 2022
+- 👀 I’m a Statistics MA student @ UC Berkeley starting Fall, 2022
 - 💞 I have recently graduated from HSE University, B.Sc Economics & Statistics 
-- 🌱 I’m currently working as a Product Analyst @ Tinkoff Bank
 - 📫 You can reach me at irina.degtiareva@berkeley.edu or irinadidid@gmail.com
 
 
